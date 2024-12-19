@@ -6,7 +6,7 @@
 
 👯 Looking to collaborate on creative projects that challenge me to grow and make an impact.
 
-📚 Currently learning: HTML, CSS, JavaScript, and modern frontend frameworks like React.
+📚 Currently learning: HTML, CSS, JavaScript, and modern frontend frameworks
 
 🎯 Goals: To build beautiful, functional web applications and become a skilled junior developer.
 
