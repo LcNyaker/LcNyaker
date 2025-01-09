@@ -10,3 +10,4 @@
 
 🎯 Goals: To build beautiful, functional web applications and become a skilled junior developer.
 
+📫 How to reach me: Ludde.nyaker@gmail.com
